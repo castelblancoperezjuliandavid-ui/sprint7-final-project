@@ -1,0 +1,4 @@
+Objetivo: realizar analisis de negocio, mediante la integración y limpieza 3 bases de datos provenientes de fuentes distintas, al aplicar técnicas de validación, estandarización de tipos de datos y detección de valores inconsistentes, para Construir un perfil estadístico del uso por cliente y segmentos demográfico para extraer insigths comerciales relevantes, evitando sesgos estadísticos al detectar outliers y comportamientos atípicos mediante métodos estadísticos y visuales.
+Datasets: plans. csv catalogo de planes, users_latam.csv informacipon de cada usuario, usage.csv actividad de cada usuario
+Etapas: exploración de los datasets, validación de datos, estandarización de datos, limpieza de datos, creación de metricas para representar el comportamiento de cada usuario, resumen estadístico, visualización de metricas, identificación de outliers, analisis de datos, comunicación de KPI´s mediante estrategia DFI
+Abrir en github
